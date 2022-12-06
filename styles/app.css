@@ -91,7 +91,7 @@ header, article{
   font-weight: var(--font-weight-medium);
 }
 article{
-  background: white;
+  background: var(--very-pale-orange);
 }
 #chart-section{
   min-height: 250px;
